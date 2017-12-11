@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Workshop Laravel</div>
+                <a href="/books" style="font-size: 30px">Ir para gerenciador de livros</a>
             </div>
         </div>
     </body>
